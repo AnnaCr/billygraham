@@ -141,5 +141,5 @@ button:hover{
 
 a{
 	color: black !important;
-	text-decoration: none !important;
+	text-decoration: none;
 }

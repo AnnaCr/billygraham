@@ -12,9 +12,6 @@
 	margin: auto;
 	height:auto; 
 	width: 100%;
-	
-	
-	
 	display: block;
 }
 #container2{
@@ -24,33 +21,22 @@
 }
 h1{
 	font-size: 20px;
-	
-	
-}
+	}
 h2{
 	font-size: 17px;
-	
-	
-	
-	
-}
-p{
+	}
+p #bible-verse{
 	font-size: 16px;
 	
 }
 
 #title{
-  
- 
-  
-}
+  }
 
 #bible-verse{
 	color: black;
 	width: 100%;
-	
-	
-}
+	}
 
 #tribute-info{
 text-align: center;
@@ -83,7 +69,7 @@ text-align: center;
  }
 
 
-}
+
 #contributions {
 	
 	
